@@ -37,7 +37,7 @@ Routing/
 │   ├── contact-us.html
 ├── app.js
 ├── browser-app.js
-
+```
 - **Routing logic**: Implemented in `app.js` to serve different files based on the URL.
 - **Interactive functionality**: Handled by `browser-app.js`.
 
