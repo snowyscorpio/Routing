@@ -44,8 +44,8 @@ Routing/
 ### Solution Overview:
 
 1. **Routing with Node.js**:
-   - Use the `http` module to create a server.
-   - Serve specific HTML pages (`/page`, `/about`, `/contact-us`) based on the requested route.
+   - Use the `http` module to create a server. (http://localhost:3000)
+   - Serve specific HTML pages (`/page`, `/about`, `/contact-us`) based on the requested route. (Can also navigate through the page itself)
    - Serve external assets like CSS, JavaScript, and images.
 
 2. **Frontend Interactivity**:
