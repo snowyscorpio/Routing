@@ -72,3 +72,10 @@ Routing/
 4. Run the following command to start the server:
    ```bash
    node app.js
+
+
+
+Have a great day ♡
+
+![CuteCat](https://github.com/user-attachments/assets/b3da6885-f24b-4de2-95b1-b1a0312de6a4)
+
